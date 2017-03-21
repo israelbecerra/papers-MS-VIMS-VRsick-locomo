@@ -1,0 +1,254 @@
+Useful online resources:
+
+- A good video exploring several locomotion methods  
+
+		https://www.youtube.com/watch?v=p0YxzgQG2-E
+
+- A research site dedicated to cybersickness
+
+		http://www.cybersickness.org/web_index.htm
+
+——————————————————————————————————————————————————
+
+
+BeLaSoVi1979			“The Role of Vision in the Control of Posture During Linear Motion” - The authors 
+					review findings concerning the role of vision in the control of posture and present 
+					comparison between the frequency response curves for linear vection and for postural
+					oscillations induced by moving visual scenes. 
+
+BePaYo1975			“Perception of Linear Horizontal Self-Motion Induced by Peripheral Vision (Linear 
+					vection) Basic Characteristics and visual-Vestibular Interactions” - The basic charac-
+					tourists of sensation of linear horizontal motion is studied. Image velocity and lumi-									nance thresholds of linearvection are measured. Saturation on vection is found.
+
+BeRaBoMaStPa2012		“Is Vestibular Self-Motion Perception Controlled by the Velocity Storage? Insights
+					from Patients with Chronic Degeneration of the Vestibulo-Cerebellum” - The authors									found that self-motion perception is correlated to the function of the velocity storage
+					mechanism of the neural central system. The velocity storage mechanism stores
+					rotational velocity that is later used to generate reflexive eye movements.
+
+BeStr2016			“Moving in a Moving World: a Review on Vestibular Motion Sickness” - 2016 review					of 					vestibular motion sickness.
+	
+BleBoWe1998			“Motion sickness: Only one provocative conflict?” - The authors give arguments on
+					how a mismatch between the sensed vertical and the subjective vertical as expected
+					from previous experience, explains motion sickness in a broad number of scenarios.
+
+BoBleGro2008			“A theory on visually induced motion sickness” - The authors present a theory of VIMS
+					based on the idea of conflicts between the sensed and the expected subjective vertical. 
+
+BoBuPaPhMo2008			“Vection change exacerbates simulator sickness in virtual environments” - A constant
+					 expanding optic flow is compared with an alternating expanding and contracting one.
+					The results suggest that changing vection exacerbate SS.
+					
+BoBuSto2005			“Rotation Direction Change Hastens Motion Sickness Onset in an Optokinetic Drum” - 
+					The rotation of an optokinetic drum was either consistently in the same direction or
+					continuously changed. VIMS onset was fastest when drum rotation direction changed.
+
+BraCi2011				“Motion sickness. Part I: development of a model for predicting motion sickness inci-
+					hence” - The authors try to develop a 3D extension to the vertical conflict theory.
+
+BuBoUrMy2006			“Rotation Velocity Change and Motion Sickness in an Optokinetic Drum” - The authors
+					show that changing rotation velocity increases sensory conflict that leads to more 
+					VIMS compared to constant rotation velocity.
+
+ChBaZhSo2016			“Visually induced motion sickness when viewing oscillations of different frequencies 
+					along the fore-and-aft axis: keeping velocity versus amplitude constant” - The study
+					investigates whether the level of VIMS would change if the RMS velocity value or
+					amplitude of displacement of visual oscillations are kept constant while manipulating 
+					the visual oscillations frequency.
+
+ChoJa1972			“Further Studies of Human Locomotion: Postural Stability and Control” - The authors
+					model the locomotion of the human upper trunk as a multidimensional inverted
+					pendulum.
+
+DaRaCo2007			“Labyrinthine lesions and motion sickness susceptibility” - The authors explore the 
+					hypothesis that motion sickness has to do with the velocity storage mechanism which
+					determines the low frequency characteristics and orientation of eye velocity toward										gravity.
+
+DiHo2011			“Visually induced motion sickness: Single- versus dual-axis motion” - The paper ex-
+					pores the generated VIMS comparing oscillation roll motion, linear motion in the fore-
+					and-aft axis, and spiral motion. Spiral motion had an atypical decrease in VIMS attri-
+					buted to a quarantine effect due to the improbability of a real scenario containing that
+					kind of stimulus.
+ 
+DiHo2013			“Frequency Characteristics of Visually Induced Motion Sickness” - The authors offer
+					an analysis on the influence of oscillation frequency on VIMS. They found that osci-
+					llations in linear motion with frequency between 0.2 Hz and 0.4 Hz produce a peak 
+					on VIMS.
+
+DiUkHo2007			“Visually Induced Motion Sickness with Radial Displays: Effects of Gaze Angle and
+					Fixation” - The paper studies eccentric gaze position while the subjects are exposed
+					to expanding optic flow (emulating linear motion). Forced eccentric gaze postion sig-
+					nificantly increased motion sickness and facilitated vection.
+
+DoFi2014			“Ramps are Better than Stairs to Reduce Cybersickness in Applications Based on 
+					a HMD and a Gamepad” - The authors propose the use of invisible ramps on top of
+					stairs to reduce VIMS. Also they compare step-like speed profiles against ramp
+					speed profiles with respect of their influence on VIMS. 
+
+DuPaFu2004			“Conflicting Motion Cues to the Visual and Vestibular SelfMotion Systems Around
+					0.06 Hz Evoke Simulator Sickness” - The authors present a visual self-motion fre-
+					quency response curve against a vestibular self-motion frequency response curve.
+					They suggest that conflicting cues at the frequency of maximum crossover of the
+					curves (0.06 Hz) are the most likely to produce simulator sickness.
+
+EnSiAl1998			“Relationships between head-shoulder divergences and sickness in a virtual envi-
+					remnant” - The authors investigate the relationship between VE sickness and 
+					head-shoulder divergence angles while moving through a VE.
+
+Fe2003				“Modeling and Monitoring of Otolith Organ Performance in U.S. Navy Operating
+					Environments” - Thesis on performance of otolith organ. The authors present
+					a model that represents the otolith organ as a low pass filter. 
+
+FeFe2016			“Combating VR Sickness through Subtle Dynamic Field-Of-View Modification” -
+					The authors explore the effect of dynamically changing a physically stationary
+					person’s FOV in response to visually perceived motion. By the presented me-
+					thod the authors managed to reduced the experienced VR sickness.
+
+Go2016				“Motion sickness” - A chapter in Handbook of Clinical Neurology 2016 about motion
+					sickness.
+
+GroBoDe1999			“Otolith Signal Processing and Motion Sickness” - A brief explanation of the prin-
+					ciples behind subjective vertical theory. 
+
+HiHo2000			“Habituation to the side effects of immersion in a virtual environment” - Analysis
+					on adaptation in VR that produces a decrease on symptoms as individuals are
+					continually expose to VR experiences. 
+ 
+HoChi1994			“The contribution of motion, the visual frame, and visual polarity to sensations of
+					the body tilt” - The papers elaborate on the types of visual information that contri-										bute to the sense of self orientation with respect to gravity.
+
+
+HoFi1999			“The nauseogenicity of two methods of navigating within a virtual environment” -
+					The study compare the nauseogenicity of two different locomotion strategies for
+					exploring a virtual environment while using a HMD.
+
+IsoStandard			“International Workshop Agreement” - An ISO standard regarding image safety. 
+					Reducing the incidence of undesirable biomedical effects caused by visual image
+					sequences.
+
+JiSoChe2009			“Isolating the Effects of Vection and Optokinetic Nystagmus on Optokinetic Rota-
+					ion Induced Motion Sickness” - The authors investigate the effects of vection and
+					optokinetic nystagmus (OKN) on VIMS provoked by rotating optokinetic drums.
+					They found that VIMS can still occur in the absence of either vection or OKN.
+
+Jo2005				“Introduction to and Review of Simulator Sickness Research” - An U.S. Army
+					report about simulator sickness. Terminology, symptoms, measurement, inci-
+					dence, adaptation, susceptibility, performance, treatment and theory.
+
+KeRiHeCa2015			“Vection and visually induced motion sickness: how are they related?” - The paper
+					show a broad compilation of literature that addresses the connection between VIMS
+					and vection.
+
+KhaTuBo2011a			“Theory of a subjective vertical-horizontal conflict physiological motion sickness
+					model for contemporary ships” - The paper extends to the subjective vertical theory
+					to include effects of horizontal accelerations as well.
+
+KhaTuBo2011b			“Application of the subjective vertical-horizontal-conflict physiological motion sickness 										model to the field trials of contemporary vessels” - This paper explores
+					68 field trials of 10 different vessels and compares the percentages of seasick
+					passengers against the predictions made by the subjective vertical-horizonta
+					theory.
+
+Ko1995				“Simulator Sickness in Virtual Environments” - A military report on simulator 
+					sickness. Includes theories of simulator sickness, effects, quantitative tools
+					and factors known to influence simulator sickness.
+
+La2014				“Motion sickness: more than cause and vomiting” - A 2014 review of motion
+					sickness  with some references to simulator and cyber sickness.
+
+LiRaPa2005			“Effects of Simulated Motion Frequency in Virtual Environments” - Two stu-
+					dies are presented to examine the role of simulated motion frequency in 
+					VIMS and simulator sickness. The studies are built over the “crossover”
+					hypothesis, which suggests that there is a frequency of simulated motion
+					that produces  a peak in visual and vestibular system conflicts (0.07 Hz). 
+
+McCa1992			“Cybersickness: Perception of Self-Motion in Virtual Environment” - One of
+					the earliest review on cybersickness.
+
+PaMuKi2016			“Vection and cybersickness generated by head-and-display motion in the
+					Oculus Rift” - The authors investigate three conditions  of visual compensa-
+					tion for physical head movements on yaw rotations. The three conditions are:
+					to emulate the rotation of visual stimuli on the opposite direction to the head
+					rotation; emulate rotation of visual stimuli on the same direction to head’s
+					rotation; not emulate rotation of visual stimuli at all.
+
+RaMaCo1979			“Velocity Storage in the Vestibulo-Ocular Reflex Arc (VOR)” - A rich study on
+					vestibular and optokinetic nystagmus (OKN). The authors present a model that 
+					postulate that a common storage mechanism is used for producing vestibular 
+					nystagmus, OKN and OKAN. This is what is further referred in the literature as the
+					velocity storage mechanism. This paper offers a good description of this mecha-
+					nism. 
+
+ReOw2016_table			“Review on cybersickness in applications and visual displays: table” - This table
+					is a complementary resource to the cybersickness review 2016 ReOw2016. This
+					table does an excellent job summarising a great amount of studies, with its dura-
+					ion, participants number, design aspect and results.
+
+ReOw2016			“Review on cybersickness in Applications and Visual Displays” - A 2016 review
+					completely on cybersickness.
+
+SeMo2015			“Simulator Sickness and the Oculus Rift: A First Look” - The authors measure 
+					the simulator sickness experienced in the oculus rift through 2 experiments.
+					One consisted in an observation task and the other one in a navigation task.
+
+SoHoLo2001			“A Metric to Quantify Virtual Scene Movement for the Study of Cybersickness:
+					Definition, Implementation, and Verification” - The authors propose a metric
+					referred to as spatial velocity SV. It combines objective measure of scene comple-
+					city and scene movement velocity. They present experiments on cybersickness
+					that show that as the SV increases by either increasing scene complexity or 
+					scene velocity significantly increased the rated level of cybersickness.
+
+SoLo2001			“Cybersickness in the presence of scene rotational movements along different 
+					axes” - The paper investigates the effects of scene oscillations along different
+					axes—pitch, yaw or roll—on the level of cybersickness. The main effects of, 
+					and interactions among, scene oscillation, duration, and participants are discu-
+					ssed.
+
+SoLoHo2001			“Effects of Navigation Speed on Motion Sickness Caused by an Immersive
+					Virtual Environment” - The study investigates the effects of navigation speed
+					on the level of motion sickness. Root-mean-squares for 8 speeds in the fore-
+					and-aft axis are compared. Nausea and vection increased from 3 m/s to 10 m/s
+					and beyond 10 m/s, the ratings stabilized.
+
+StHaNaKe2003			“What to Expecto from Immersive Virtual Environment Exposure: Influences
+					of Gender, Body Mass Index, and Past Experience” - This study investigated
+					potential adverse effects, including the sickness associated with exposure and
+					extreme responses. Participants (1102 individuals) were exposed to a VE for
+					15 to 60 min, with either complete of streamlined navigational control and simple
+					or complex scenes. 
+
+ToDeVaBo2008			“Cybersickness and Desktop Simulations: Field of View Effects and User Expe-
+					rience” - The authors examined the effect of differences between the internal
+					field of view (FOV which the graphics generator is using to render its images)
+					and external FOV (FOV of the presented images as seen from the physical 
+					viewpoint of the observer). Congruent internal and external FOVs lead to higher
+					incidence of cybersickness.
+
+UjYoSa2004			“Effects of Virtual Body Motion on Visually-Induced Motion Sickness” - The
+					authors compare image types (random dots and ordinary scene), different
+					rotational speeds and rotation axis. 
+
+Vio2000				“A Discussion of Cybersickness in Virtual Environments” - A discussion on 
+					factors that cause cybersickness, theories that have been postulated, and
+					possible methods to reduce cybersickness in VEs.
+
+WeGri2003			“Eye Movement, Vection, and Motion Sickness with Foveal and Periphe-
+					real Vision” - The authors explore the hypothesis that similar motion sick-
+					ness would be produced when tracking a single moving dot and a full
+					screen of moving dots, but that vection would be greater when tracking
+					multiple moving dots.
+
+WeRaCo1998			“Control of Spatial Orientation of the Angular Vestibuloocular Reflex by the
+					Nodulus and Uvula” - Horizontal, vertical, and torsional components of slow 
+					phases of nystagmus were analysed to determine the axes of eye rotation, 
+					the time constants of velocity storage mechanism, and its orientation vectors.	
+
+YaGuSoChe2011			“Effects of eye fixation on visually induced motion sickness: are they caused
+					by changes in retinal slip velocity?” - The authors investigate the effect of
+					eye fixation on VIMS. They test 2 different rotation speeds, one 7 degrees
+					per second and the other at 60 degrees per second.
+
+——————————————————————————————————————————————————
+
+Additional resources about VIMS
+
+	- “Handbook of virtual environments - Design, Implementation, and Applications”. Kelly S. Hale and
+		Kay M. Stanney. CRC Press. Chapter 26.
