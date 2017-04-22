@@ -18,21 +18,25 @@ BeLaSoVi1979			“The Role of Vision in the Control of Posture During Linear Mot
 
 BePaYo1975			“Perception of Linear Horizontal Self-Motion Induced by Peripheral Vision (Linear 
 					vection) Basic Characteristics and visual-Vestibular Interactions” - The basic charac-
-					tourists of sensation of linear horizontal motion is studied. Image velocity and lumi-									nance thresholds of linearvection are measured. Saturation on vection is found.
+					tourists of sensation of linear horizontal motion is studied. Image velocity and lumi-
+					nance thresholds of linearvection are measured. Saturation on vection is found.
 
 BeRaBoMaStPa2012		“Is Vestibular Self-Motion Perception Controlled by the Velocity Storage? Insights
-					from Patients with Chronic Degeneration of the Vestibulo-Cerebellum” - The authors									found that self-motion perception is correlated to the function of the velocity storage
-					mechanism of the neural central system. The velocity storage mechanism stores
+					from Patients with Chronic Degeneration of the Vestibulo-Cerebellum” - The authors
+					found that self-motion perception is correlated to the function of the velocity
+					storage mechanism of the neural central system. The velocity storage mechanism stores
 					rotational velocity that is later used to generate reflexive eye movements.
 
-BeStr2016			“Moving in a Moving World: a Review on Vestibular Motion Sickness” - 2016 review					of 					vestibular motion sickness.
+BeStr2016			“Moving in a Moving World: a Review on Vestibular Motion Sickness” - 2016 review of
+					vestibular motion sickness.
 	
 BleBoWe1998			“Motion sickness: Only one provocative conflict?” - The authors give arguments on
 					how a mismatch between the sensed vertical and the subjective vertical as expected
 					from previous experience, explains motion sickness in a broad number of scenarios.
 
 BoBleGro2008			“A theory on visually induced motion sickness” - The authors present a theory of VIMS
-					based on the idea of conflicts between the sensed and the expected subjective vertical. 
+					based on the idea of conflicts between the sensed and the expected subjective
+					vertical. 
 
 BoBuPaPhMo2008			“Vection change exacerbates simulator sickness in virtual environments” - A constant
 					 expanding optic flow is compared with an alternating expanding and contracting one.
@@ -42,7 +46,7 @@ BoBuSto2005			“Rotation Direction Change Hastens Motion Sickness Onset in an O
 					The rotation of an optokinetic drum was either consistently in the same direction or
 					continuously changed. VIMS onset was fastest when drum rotation direction changed.
 
-BraCi2011				“Motion sickness. Part I: development of a model for predicting motion sickness inci-
+BraCi2011			“Motion sickness. Part I: development of a model for predicting motion sickness inci-
 					hence” - The authors try to develop a 3D extension to the vertical conflict theory.
 
 BuBoUrMy2006			“Rotation Velocity Change and Motion Sickness in an Optokinetic Drum” - The authors
@@ -61,13 +65,21 @@ ChoJa1972			“Further Studies of Human Locomotion: Postural Stability and Contr
 
 DaRaCo2007			“Labyrinthine lesions and motion sickness susceptibility” - The authors explore the 
 					hypothesis that motion sickness has to do with the velocity storage mechanism which
-					determines the low frequency characteristics and orientation of eye velocity toward										gravity.
+					determines the low frequency characteristics and orientation of eye velocity toward
+					gravity.
+
+DiHeMoSt1998			“Aftereffects and Sense of Presence in Virtual Environments: Formulation of a Research 
+					and Development Agenda” - This is a report of a committee summary regarding after-
+					effects and sense of presence in virtual environments. It corresponds to a special
+					session in the Seventh International Conference on Human Computer Interaction.
+					Research needs were identified in the short, medium, and long terms. This might be
+					useful to identify new research experiments.
 
 DiHo2011			“Visually induced motion sickness: Single- versus dual-axis motion” - The paper ex-
 					pores the generated VIMS comparing oscillation roll motion, linear motion in the fore-
 					and-aft axis, and spiral motion. Spiral motion had an atypical decrease in VIMS attri-
-					buted to a quarantine effect due to the improbability of a real scenario containing that
-					kind of stimulus.
+					buted to a quarantine effect due to the improbability of a real scenario containing
+					that kind of stimulus.
  
 DiHo2013			“Frequency Characteristics of Visually Induced Motion Sickness” - The authors offer
 					an analysis on the influence of oscillation frequency on VIMS. They found that osci-
@@ -114,8 +126,8 @@ HiHo2000			“Habituation to the side effects of immersion in a virtual environm
 					continually expose to VR experiences. 
  
 HoChi1994			“The contribution of motion, the visual frame, and visual polarity to sensations of
-					the body tilt” - The papers elaborate on the types of visual information that contri-										bute to the sense of self orientation with respect to gravity.
-
+					the body tilt” - The papers elaborate on the types of visual information that contri-
+					bute to the sense of self orientation with respect to gravity.
 
 HoFi1999			“The nauseogenicity of two methods of navigating within a virtual environment” -
 					The study compare the nauseogenicity of two different locomotion strategies for
@@ -142,7 +154,8 @@ KhaTuBo2011a			“Theory of a subjective vertical-horizontal conflict physiologi
 					model for contemporary ships” - The paper extends to the subjective vertical theory
 					to include effects of horizontal accelerations as well.
 
-KhaTuBo2011b			“Application of the subjective vertical-horizontal-conflict physiological motion sickness 										model to the field trials of contemporary vessels” - This paper explores
+KhaTuBo2011b			“Application of the subjective vertical-horizontal-conflict physiological motion sickness
+					model to the field trials of contemporary vessels” - This paper explores
 					68 field trials of 10 different vessels and compares the percentages of seasick
 					passengers against the predictions made by the subjective vertical-horizonta
 					theory.
@@ -208,12 +221,22 @@ SoLoHo2001			“Effects of Navigation Speed on Motion Sickness Caused by an Imme
 					and-aft axis are compared. Nausea and vection increased from 3 m/s to 10 m/s
 					and beyond 10 m/s, the ratings stabilized.
 
-StHaNaKe2003			“What to Expecto from Immersive Virtual Environment Exposure: Influences
+StHaNaKe2003			“What to Expect from Immersive Virtual Environment Exposure: Influences
 					of Gender, Body Mass Index, and Past Experience” - This study investigated
 					potential adverse effects, including the sickness associated with exposure and
 					extreme responses. Participants (1102 individuals) were exposed to a VE for
 					15 to 60 min, with either complete of streamlined navigational control and simple
 					or complex scenes. 
+					
+StKe1998			“Aftereffects From Virtual Environment Exposure: How Long Do They Last?” - 
+					This study investigates the duration of aftereffects from virtual environment
+					exposure. Three exposure periods ranging from 15 to 45 minutes are considered
+					and 5 measurements taken after exposure at 15 minute intervals are presented.					
+StKeDreHa1999			“Motion Sickness and Proprioceptive Aftereffects Following Virtual Environment 
+					exposure” - The authors investigate the proprioceptive aftereffects following
+					exposure to a Virtual Reality experience. This work presents tests of visually 
+					guided behaviour, felt limb position and self-reports of motion sickness 
+					discomfort.
 
 ToDeVaBo2008			“Cybersickness and Desktop Simulations: Field of View Effects and User Expe-
 					rience” - The authors examined the effect of differences between the internal
